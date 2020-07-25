@@ -1,0 +1,20 @@
+C:\Users\yigit\source\repos\Dükkan Kayıt 2\Dükkan Kayıt 2\bin\Debug\Dükkan Kayıt 2.exe.config
+C:\Users\yigit\source\repos\Dükkan Kayıt 2\Dükkan Kayıt 2\bin\Debug\Dükkan Kayıt 2.exe
+C:\Users\yigit\source\repos\Dükkan Kayıt 2\Dükkan Kayıt 2\bin\Debug\Dükkan Kayıt 2.pdb
+C:\Users\yigit\source\repos\Dükkan Kayıt 2\Dükkan Kayıt 2\obj\Debug\Dükkan Kayıt 2.csprojAssemblyReference.cache
+C:\Users\yigit\source\repos\Dükkan Kayıt 2\Dükkan Kayıt 2\obj\Debug\Dükkan_Kayıt_2.Properties.Resources.resources
+C:\Users\yigit\source\repos\Dükkan Kayıt 2\Dükkan Kayıt 2\obj\Debug\Dükkan Kayıt 2.csproj.GenerateResource.cache
+C:\Users\yigit\source\repos\Dükkan Kayıt 2\Dükkan Kayıt 2\obj\Debug\Dükkan Kayıt 2.exe
+C:\Users\yigit\source\repos\Dükkan Kayıt 2\Dükkan Kayıt 2\obj\Debug\Dükkan Kayıt 2.pdb
+C:\Users\yigit\source\repos\Dükkan Kayıt 2\Dükkan Kayıt 2\obj\Debug\Dükkan_Kayıt_2.MüşteriKayıt.resources
+C:\Users\yigit\source\repos\Dükkan Kayıt 2\Dükkan Kayıt 2\obj\Debug\Dükkan_Kayıt_2.Kayıtlar.resources
+C:\Users\yigit\OneDrive\Masaüstü\Dükkan Kayıt 2\Dükkan Kayıt 2\bin\Debug\Dükkan Kayıt 2.exe.config
+C:\Users\yigit\OneDrive\Masaüstü\Dükkan Kayıt 2\Dükkan Kayıt 2\bin\Debug\Dükkan Kayıt 2.exe
+C:\Users\yigit\OneDrive\Masaüstü\Dükkan Kayıt 2\Dükkan Kayıt 2\bin\Debug\Dükkan Kayıt 2.pdb
+C:\Users\yigit\OneDrive\Masaüstü\Dükkan Kayıt 2\Dükkan Kayıt 2\obj\Debug\Dükkan Kayıt 2.csprojAssemblyReference.cache
+C:\Users\yigit\OneDrive\Masaüstü\Dükkan Kayıt 2\Dükkan Kayıt 2\obj\Debug\Dükkan_Kayıt_2.Kayıtlar.resources
+C:\Users\yigit\OneDrive\Masaüstü\Dükkan Kayıt 2\Dükkan Kayıt 2\obj\Debug\Dükkan_Kayıt_2.MüşteriKayıt.resources
+C:\Users\yigit\OneDrive\Masaüstü\Dükkan Kayıt 2\Dükkan Kayıt 2\obj\Debug\Dükkan_Kayıt_2.Properties.Resources.resources
+C:\Users\yigit\OneDrive\Masaüstü\Dükkan Kayıt 2\Dükkan Kayıt 2\obj\Debug\Dükkan Kayıt 2.csproj.GenerateResource.cache
+C:\Users\yigit\OneDrive\Masaüstü\Dükkan Kayıt 2\Dükkan Kayıt 2\obj\Debug\Dükkan Kayıt 2.exe
+C:\Users\yigit\OneDrive\Masaüstü\Dükkan Kayıt 2\Dükkan Kayıt 2\obj\Debug\Dükkan Kayıt 2.pdb
